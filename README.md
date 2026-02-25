@@ -6,10 +6,10 @@ MultiAPI-Spoof is a multi-source audio anti-spoofing dataset that contains appro
 
 - 📥 [Download on Google Drive](https://drive.google.com/file/d/1d1MCt6ZYKv90XZic4_KvOD67RDoi2m5-/view?usp=sharing)
 - 🖥️ [Code on github](https://github.com/kjsdhsjkhckjsa/MultiAPI-Spoof)
+- 🤗 [Model on huggingface](https://huggingface.co/jhsdfbsdjfu/Nes2Net_LA)
 - License: For academic research only.
 
 ***
-
 ## Spoofed Audio Samples
 
 ### Audio samples from Commercial TTS APIs
@@ -116,7 +116,7 @@ Each line has four fields:
     audio_path     api     class_label
     XXX.mp3        A0      spoofed
     XXX.mp3        -       bonafide
----
+
 
 ## 📖 Citation
 
