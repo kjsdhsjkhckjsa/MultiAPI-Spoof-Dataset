@@ -130,5 +130,6 @@ If you use this code or dataset, please cite:
 ## 🔏 License 
 
  The dataset is released under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en) license.
+ Users must comply with the license terms. The authors do **not** claim ownership of the original audio content.
 
 ---
